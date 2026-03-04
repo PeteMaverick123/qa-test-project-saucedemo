@@ -1,25 +1,39 @@
-Project structure
-
-README.md – project description
-SauceDemo_Manual_Testing_Project.xlsx – test cases and execution
-bug-report.md – documented bug discovered during testing
-test-summary.md – testing overview
-
-
 # QA Manual Testing Project – SauceDemo
 
-This repository contains a small manual testing project for the SauceDemo web application.
+This repository contains a small manual testing project created as part of my practice in software testing.
 
-## Project content
-- Test cases and test execution results
-- Manual testing documentation
-- Bug report discovered during exploratory testing
+The project demonstrates basic QA activities such as:
+
+- creating test cases
+- executing manual tests
+- identifying and documenting bugs
+- preparing basic testing documentation
+
+## Tested application
+https://www.saucedemo.com/
+
+## Project structure
+
+README.md – project description  
+SauceDemo_Manual_Testing_Project.xlsx – test cases and execution results  
+bug-report.md – documented bug discovered during testing  
+Test Summary – testing overview and results  
+
+## Testing scope
+
+The following areas were tested:
+
+- Login functionality
+- Product listing
+- Add to cart / remove from cart
+- Basic navigation
 
 ## Tools used
-- Excel
+
 - Manual testing
-- GitHub documentation
+- Excel
+- GitHub
 
 ## Author
-Petr Dobias
 
+Petr Dobias
