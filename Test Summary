@@ -1,1 +1,24 @@
+# Test Summary – SauceDemo
 
+Tested application: https://www.saucedemo.com/
+
+Test type:
+Manual functional testing
+
+Scope:
+Login functionality
+Product listing
+Cart operations
+Basic navigation
+
+Test cases:
+Total: 6
+Executed: 6
+Passed: 5
+Failed: 1
+
+Bugs found:
+1 navigation issue discovered during exploratory testing.
+
+Tools used:
+Excel, manual testing, GitHub documentation.
