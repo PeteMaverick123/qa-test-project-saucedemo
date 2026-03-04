@@ -1,16 +1,16 @@
-QA Test Project – SauceDemo
+# QA Manual Testing Project – SauceDemo
 
-This project contains manual testing documentation for the SauceDemo web application.
+This repository contains a small manual testing project for the SauceDemo web application.
 
-Content:
-- Test cases for login and cart functionality
-- Bug report
-- Test execution results
-- Severity and priority evaluation
+## Project content
+- Test cases and test execution results
+- Manual testing documentation
+- Bug report discovered during exploratory testing
 
-Tools:
+## Tools used
 - Excel
 - Manual testing
+- GitHub documentation
 
-Author:
+## Author
 Petr Dobias
